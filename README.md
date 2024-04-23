@@ -46,3 +46,16 @@ The dataset is structured in the Microsoft Excel workbook (.xlsx) file format. I
 - Tech_Support: It contains data on customers who have tech support.
 - Tenure: It contains how long the customers have joined the company.
 - Total_Charges: It contains the total amount customers paid for service.
+
+### Dashboards Preview:
+1. Welcome page 
+![35ee4167ddcb0789c81d8ad13c7a540](https://github.com/johnxiong123/PhoneNow-Call-Center-Customer-Retention/assets/104403894/35f70990-76fc-45ad-97dc-e385c2c65f8a)
+
+2.Churn Dashboard
+![6f041cb453ceecb9c0bfaf511dcdd93](https://github.com/johnxiong123/PhoneNow-Call-Center-Customer-Retention/assets/104403894/ff97a535-619d-479e-969f-3055bbe6644b)
+
+3.Customer Risk Analysis
+![0dc4f13e53609a5effdaad355e3fd1a](https://github.com/johnxiong123/PhoneNow-Call-Center-Customer-Retention/assets/104403894/10ab923a-1e98-44ee-961e-284b03093760)
+
+Link to the Online Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTczNGJjOTktNjcwMi00NGYwLWJhMjktN2I0ZDA3YjQ5NDViIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9&pageName=ReportSection
+  
