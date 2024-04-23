@@ -13,36 +13,36 @@ Write a short email to him (the engagement partner) explaining my findings, and 
 
 
 ### Objectives:
-After a meeting with the Retention Manager, I was provided with the following inputs
-• Customers who left within the last month
-• Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
+After a meeting with the Retention Manager, I was provided with the following inputs:
+- Customers who left within the last month
+- Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
 support, and streaming TV and movies
-• Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
+- Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
 and number of tickets opened in the categories administrative and technical
-• Demographic info about customers — gender, age range, and if they have partners and dependents
+- Demographic info about customers — gender, age range, and if they have partners and dependents
 
 ### DataSet:
 The dataset is structured in the Microsoft Excel workbook (.xlsx) file format. It contains 7,043 rows/entries and 23 columns, namely:
-·         Churn: It contains the status of the customers; churned or retained.
-·         Customer_ID: It contains the identity representation of customers
-·         Contract: It contains the type of contract the customer runs
-·         Dependent: It contains data on customers who have partners.
-·         Device_Protection: It contains data of customers who have device protection.
-·         Gender: It contains the gender of the customers.
-·         Internet_Service: It contains data of customers who have internet service.
-·         Monthly_Charges: It contains the monthly charges paid by customers.
-·         Multiple_Lines: It contains data of customers who have multiple lines.
-·         Num_Admin_Ticket: The number of Admin tickets.
-·         Num_Tech_Ticket: The number of Tech tickets
-·         Online_Backup: It contains data of customers who have online backup.
-·         Online_Security: It contains data of customers who have online security.
-·         Paperless_Billing: It contains data of customers who use paperless billing.
-·         Partner: It contains data on customers who have partners.
-·         Payment_Method: It contains the payment method used by the customers.
-·         Phone_Service: It contains data of customers who have phone service.
-·         Senior_Citizen: It contains data on customers who are senior citizens.
-·         Streaming_Movies: It contains data on customers who stream movies.
-·         Streaming_TV: It contains data of customers who stream TV.
-·         Tech_Support: It contains data on customers who have tech support.
-·         Tenure: It contains how long the customers have joined the company.
-·         Total_Charges: It contains the total amount customers paid for service.
+-  Churn: It contains the status of the customers; churned or retained.
+- Customer_ID: It contains the identity representation of customers
+-  Contract: It contains the type of contract the customer runs
+- Dependent: It contains data on customers who have partners.
+- Device_Protection: It contains data of customers who have device protection.
+-  Gender: It contains the gender of the customers.
+- Internet_Service: It contains data of customers who have internet service.
+- Monthly_Charges: It contains the monthly charges paid by customers.
+-  Multiple_Lines: It contains data of customers who have multiple lines.
+- Num_Admin_Ticket: The number of Admin tickets.
+-  Num_Tech_Ticket: The number of Tech tickets
+- Online_Backup: It contains data of customers who have online backup.
+- Online_Security: It contains data of customers who have online security.
+- Paperless_Billing: It contains data of customers who use paperless billing.
+- Partner: It contains data on customers who have partners.
+- Payment_Method: It contains the payment method used by the customers.
+- Phone_Service: It contains data of customers who have phone service.
+- Senior_Citizen: It contains data on customers who are senior citizens.
+- Streaming_Movies: It contains data on customers who stream movies.
+- Streaming_TV: It contains data of customers who stream TV.
+- Tech_Support: It contains data on customers who have tech support.
+- Tenure: It contains how long the customers have joined the company.
+- Total_Charges: It contains the total amount customers paid for service.
