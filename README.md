@@ -58,4 +58,18 @@ The dataset is structured in the Microsoft Excel workbook (.xlsx) file format. I
 ![0dc4f13e53609a5effdaad355e3fd1a](https://github.com/johnxiong123/PhoneNow-Call-Center-Customer-Retention/assets/104403894/10ab923a-1e98-44ee-961e-284b03093760)
 
 Link to the Online Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTczNGJjOTktNjcwMi00NGYwLWJhMjktN2I0ZDA3YjQ5NDViIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9&pageName=ReportSection
-  
+
+### Insights:
+The Churn Dashboard reveals that a significant number of customers at risk are those with tech support tickets and those on month-to-month contracts.
+
+The Customer Risk Analysis indicates that the churn rate is notably higher among customers with DSL internet service and those with higher monthly charges.
+
+### Suggestions:
+
+Proactive Engagement: Implement predictive analytics to identify customers at risk of churn before contract termination, focusing particularly on those with frequent tech support interactions and those on short-term contracts.
+
+Service Enhancement: Boost Fiber Optic support and evaluate the tech support ticket resolution process to increase customer satisfaction and retention.
+
+Contract Incentives: Develop incentives for month-to-month customers to transition to longer-term contracts.
+
+Pricing Strategy: Review and adjust the pricing model for high-risk segments to offer competitive rates that could reduce the churn rate.
