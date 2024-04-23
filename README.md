@@ -1,10 +1,10 @@
 # PhoneNow-Call-Center-Customer-Retention
 
-### INTRODUCTION
+### Introduction:
 A few weeks after presenting the Customer Satisfaction and Agent Behavior dashboard to the management, the Retention Manager from the telecom reached out to me directly. She was impressed by the work and asked if I can put together a dashboard about customer retention.
 This is the second task in the Virtual case experience with PwC. I’ll be reporting to the retention manager of PwC about customer retention in PhoneNow.
 
-### PROBLEM STATEMENT
+### Problem Statement:
 The Retention department in the telecom company, PhoneNow, is concerned about losing their customers and also getting back churned customers. The customers are of priority to them as customers in the telecom industry are hard-earned.
 The project was done based on the request of the Retention Manager. The engagement partner, requested for the following tasks to be done
 Define proper KPI
